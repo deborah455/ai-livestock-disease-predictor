@@ -1,0 +1,4 @@
+exp,acc,f1,prec,rec,auc,tp,fp,fn,tn,notes
+Exp 1 — Vision,0.8961038961038961,0.8940704555383455,0.8952922077922078,0.8961038961038961,0.9500786163522013,,,,,Cattle skin (healthy vs LSD)
+Exp 2 — Sensors,0.999537037037037,0.9995370476806618,0.9995374878286271,0.999537037037037,0.9999999999999999,,,,,Synthetic; split by animal_id
+Exp 2b — Fusion (best α=0.45),1.0,1.0,1.0,1.0,1.0,46.0,0.0,0.0,62.0,Proxy paired slice (upper bound)

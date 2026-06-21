@@ -1,0 +1,5 @@
+timestamp,species,alpha,tau,temp_c,activity_idx,cough_count,rr,decision,p_vis,p_sens,p_fused
+2025-10-24T20:29:39,Cattle,0.45,0.5,40.3,0.19,3,18,UNHEALTHY,,0.764,0.764
+2025-11-25 12:09:16,Chicken,0.45,0.5,43.70000000000003,0.6,3,30,HEALTHY,,0.376,0.376
+2025-11-25 13:51:33,Cattle,0.45,0.5,38.3,0.6,0,22,HEALTHY,0.012,0.0,0.007
+2025-11-28 12:56:36,Cattle,0.45,0.5,39.10000000000001,0.6,3,22,HEALTHY,0.536,0.239,0.402

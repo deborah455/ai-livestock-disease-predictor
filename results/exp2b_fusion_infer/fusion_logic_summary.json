@@ -1,0 +1,9 @@
+{
+  "alpha": 0.45,
+  "threshold": 0.5,
+  "rows": 360,
+  "auc_fused": 1.0,
+  "auc_vision_on_slice": 0.9574531906160211,
+  "auc_sensors_on_slice": 1.0,
+  "report_f1_weighted": 0.9972210152083746
+}
